@@ -11,7 +11,7 @@ Get the input values
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 4: 
-Substitute in the formul
+Substitute in the formula
 ### Step 5: 
 End the rpogram
 
